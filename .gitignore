@@ -28,9 +28,9 @@ uploads/*.png
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-frontend/node_modules/**
-frontend/build/**
+web-shop/node_modules/**
+web-shop/build/**
 package-lock.json
 yarn-lock.json
-frontend/package-lock.json
-frontend/yarn-lock.json
+web-shop/package-lock.json
+web-shop/yarn-lock.json
